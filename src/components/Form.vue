@@ -21,8 +21,6 @@ function handleCommentSubmit() {
     <!-- Mobile form -->
     <form @submit.prevent="handleCommentSubmit" class="flex flex-col items-start gap-5 p-4 m-3 bg-white md:hidden">
         <textarea 
-        name="" 
-        id="" 
         rows="4" 
         placeholder="Add a comment..."
         v-model="newComment"
@@ -42,8 +40,6 @@ function handleCommentSubmit() {
     <form @submit.prevent="handleCommentSubmit" class="items-start hidden gap-6 p-5 mx-5 bg-white rounded-lg md:flex">
         <slot></slot>
         <textarea 
-        name="" 
-        id="" 
         rows="3" 
         placeholder="Add a comment..."
         v-model="newComment"
