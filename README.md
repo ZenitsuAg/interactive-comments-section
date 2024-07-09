@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-comment-section-with-vue-tailwind-and-vite-iKMtPenSag)
+- Live Site URL: [GitHub Page](https://zenitsuag.github.io/interactive-comments-section/)
 
 ## My process
 
