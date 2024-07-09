@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-comment-section-with-vue-tailwind-and-vite-iKMtPenSag)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-comment-section-with-vue-tailwind-and-vite-iKMtPenSag)
 - Live Site URL: [GitHub Page](https://zenitsuag.github.io/interactive-comments-section/)
 
 ## My process
